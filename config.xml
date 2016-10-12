@@ -2,7 +2,7 @@
   <name>NWK Online</name>
   <description>NWK Online App Shell.</description>
   <author href="http://www.nwk.co.za" email="nwkapps@gmail.com">NWK Ltd</author>
-  <content src="http://www.nwk.co.za/online"/>
+  <content src="http://www.nwk.co.za"/>
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="android-minSdkVersion" value="14"/>
   <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1"/>
