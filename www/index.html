@@ -44,7 +44,7 @@
     <script type="text/javascript">
         document.addEventListener("deviceready", onDeviceReady, false);
         function onDeviceReady() {
-            window.open('www.nwk.co.za/online');
+            var ref = cordova.InAppBrowser.open('http://www.nwk.co.za/Online', '_blank', 'location=yes');
         }
     </script>
 </body>
