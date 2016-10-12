@@ -41,10 +41,11 @@
 </head>
 
 <body style="border:0;padding:0px;margin:0px;" style="height: 100%;width: 100%">
-    <iframe style="border:0;padding:0px;margin:0px;" style="height: 100%;width: 100%" src="http://www.nwk.co.za:8080/Online"></iframe>
     <script type="text/javascript">
-        alert(window.innerWidth);
-        alert(window.innerHeight);
+        document.addEventListener("deviceready", onDeviceReady, false);
+        function onDeviceReady() {
+            window.open('www.nwk.co.za/online');
+        }
     </script>
 </body>
 
