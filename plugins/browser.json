@@ -1,0 +1,72 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "za.nwk.Online"
+        }
+    },
+    "dependent_plugins": {}
+}
