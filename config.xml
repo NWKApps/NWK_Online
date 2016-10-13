@@ -30,4 +30,6 @@
   <access origin="http://www.nwk.co.za:8080" subdomains="true" />
   <allow-navigation href="http://www.nwk.co.za:8080/*" />
   <allow-navigation href="http://www.nwk.co.za/*" />
+  <access origin="*" subdomains="true" />
+  <allow-navigation href="*" />
 </widget>
