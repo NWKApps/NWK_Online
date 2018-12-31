@@ -1,9 +1,10 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="za.nwk.Online" version="26" android-versionCode='26'>
   <name>NWK Online</name>
-  <description>NWK Online App Shell.</description>
+  <description>NWK Online App</description>
   <author href="http://www.nwk.co.za" email="nwkapps@gmail.com">NWK Ltd</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
+  <preference name="android-minSdkVersion" value="26"/>
   <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1"/>
   <icon src="icon.png"/>
   <access origin="http://www.nwk.co.za" subdomains="true" />
