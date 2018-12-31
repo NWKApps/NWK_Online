@@ -4,7 +4,6 @@
   <author href="http://www.nwk.co.za" email="nwkapps@gmail.com">NWK Ltd</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
-  <preference name="android-minSdkVersion" value="26"/>
   <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1"/>
   <icon src="icon.png"/>
   <access origin="http://www.nwk.co.za" subdomains="true" />
