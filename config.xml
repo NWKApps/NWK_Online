@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="za.nwk.Online" version="27" android-versionCode='27'>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="za.nwk.Online" version="28" android-versionCode='28'>
   <name>NWK Online</name>
   <description>NWK Online App</description>
   <author href="http://www.nwk.co.za" email="nwkapps@gmail.com">NWK Ltd</author>
